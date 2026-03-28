@@ -94,3 +94,13 @@ button:hover{
     width: 200px;
     text-align: center;
 }
+@media (max-width: 768px) {
+    .navbar ul {
+        flex-direction: row;
+    }
+
+    .project-container {
+        flex-direction: row;
+        align-items: center;
+    }
+}
