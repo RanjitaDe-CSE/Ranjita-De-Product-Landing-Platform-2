@@ -50,7 +50,9 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
-
+button:hover{
+    Background:black;
+}
 /* Features & Testimonials */
 .features {
     display:flex;
@@ -79,7 +81,7 @@ button {
     border-radius: 5px;
 }
 
-/* Cards */
+
 .card {
     background-color: white;
 
