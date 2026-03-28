@@ -1,5 +1,7 @@
 Terracotta Product Landing Page 
+
 Visit Site: https://ranjitade-cse.github.io/Ranjita-De-Product-Landing-Platform-2/
+
 Project Overview
 This project is a responsive Product Landing Page developed using HTML5 and CSS3. It is designed to showcase terracotta products such as home décor, jewellery, and kitchen utensils in a visually appealing and structured layout.
 
